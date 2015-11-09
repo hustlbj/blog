@@ -43,6 +43,7 @@ EXTRA_PATH_METADATA = {
 		'images/favicon.ico': {'path': 'favicon.ico'}
 }
 DISPLAY_PAGES_ON_MENU = True
+DISQUS_SITENAME = True
 #ARTICLE_URL = {'articles/{slug}.html'}
 #ARTICLE_SAVE_AS = {'articles/{slug}.html'}
 
