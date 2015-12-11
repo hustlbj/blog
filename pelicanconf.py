@@ -49,5 +49,5 @@ DISQUS_SITENAME = True
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
-THEME = "/home/ec2-user/myspace/workspace/project/pelican-themes/bootstrap2-dark"
+THEME = "/home/ec2-user/pelican-themes/bootstrap2-dark"
 

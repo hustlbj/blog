@@ -1,7 +1,7 @@
 Title: Pelican和Themes的使用tips
 Date: 2015-11-09
 Category: 补漏记
-Tags: pelican, theme, tags, page
+Tags: pelican, theme, bootstrap
 
 1) 关于tags的显示bug
 
